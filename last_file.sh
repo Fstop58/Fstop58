@@ -12,7 +12,7 @@ LOG_FILE="/home/script/backup.log"
 
 echo "=== Начало копирования ===" > "$LOG_FILE"
 
-# Получение последнего файла из удаленного каталога с расширением .dump
+# Получение последнего файла с расширением .dump
 echo "Получение последнего файла с $REMOTE_HOST:$REMOTE_DIR..." >> "$LOG_FILE"
 LATEST_FILE=$(ssh "$REMOTE_USER@$REMOTE_HOST" "ls -t $REMOTE_DIR/*.dump | head -n 1")
 
