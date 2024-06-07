@@ -5,3 +5,4 @@
 - 📫 How to reach me prikhodko.andrey22@gmail.com or on Telegram: @AndreyP58.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In my free time, I love spending time outdoors and enjoying the company of friends.
+I'm trying to be a better person)
